@@ -1,4 +1,14 @@
-## Hi there 👋
+### 💻 Interests:
+Mobile Development & UI/UX. 
+
+### 🌱 Languages and Tools:
+- **Languages:** Python, JavaScript, Dart 
+- **Frameworks / Tools:** Flutter, React Native 
+- **Databases:** Firebase, MySQL
+- **Design:** Figma
+
+### 📂 Projects
+You can find my school and personal projects in my repositories below. 
 
 <!--
 **guuhi/guuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
