@@ -3,7 +3,7 @@ Mobile Development & UI/UX.
 
 ### 🌱 Languages and Tools:
 - **Languages:** Python, JavaScript, Dart 
-- **Frameworks / Tools:** Flutter, React Native 
+- **Frameworks / Tools:** Flutter (learning) , React Native (learning)
 - **Databases:** Firebase, MySQL
 - **Design:** Figma
 
