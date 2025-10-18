@@ -7,8 +7,6 @@ Mobile Development & UI/UX.
 - **Databases:** Firebase, MySQL
 - **Design:** Figma
 
-### 📂 Projects
-You can find my school and personal projects in my repositories below. 
 
 <!--
 **guuhi/guuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
