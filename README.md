@@ -1,12 +1,10 @@
 ### 💻 Interests:
-Mobile Development & UI/UX. 
+UI/UX, Front-end Engineering
 
-### 🌱 Languages and Tools:
-- **Languages:** Python, JavaScript, Dart 
-- **Frameworks / Tools:** Flutter, React (Learning)
+### 🌱 Technologies:
+- Python, JavaScript
 - **Databases:** Firebase, MySQL
 - **Design:** Figma
-
 
 <!--
 **guuhi/guuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
