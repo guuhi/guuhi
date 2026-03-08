@@ -1,10 +1,4 @@
-### 💻 Interests:
-UI/UX, Front-end Engineering
-
-### 🌱 Technologies:
-- Python, JavaScript
-- **Databases:** Firebase, MySQL
-- **Design:** Figma
+`🌱 currently learning`
 
 <!--
 **guuhi/guuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
